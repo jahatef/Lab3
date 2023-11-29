@@ -1,6 +1,9 @@
 # Lab3
 
-When installing scikit-learn do `pip install scikit-learn` instead of `pip install sklearn` if you encounter that error message.
+## Use these scripts to complete lab 3. 
+
+
+Note: When installing scikit-learn do `pip install scikit-learn` instead of `pip install sklearn` if you encounter that error message.
 
 Inference Command:
 

@@ -8,7 +8,7 @@ Note: When installing scikit-learn do `pip install scikit-learn` instead of `pip
 Inference Command:
 
 ```
-python run_generation.py \
+python infer.py \
     --model_type=pythia \
     --model_name_or_path=EleutherAI/pythia-410m
 ```

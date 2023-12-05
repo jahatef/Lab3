@@ -24,5 +24,6 @@ python train.py \
     --per_device_eval_batch_size 1 \
     --do_train \
     --do_eval \
+    --fp16 \
     --output_dir /tmp/train
 ```
